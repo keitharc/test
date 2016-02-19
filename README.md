@@ -15,3 +15,8 @@ here I'm going to do many tests verry boring to watch
 
 https://www.youtube.com/watch?v=tsVOMXLnTQ4
 
+<table>
+    <tr>
+        <td>Foo</td>
+    </tr>
+</table>
